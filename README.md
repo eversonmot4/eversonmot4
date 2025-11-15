@@ -67,7 +67,7 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 📧 **E-mail:** eversonborges.oficial@gmail.com  
 💼 **GitHub:** https://github.com/eversonmot4  
-🔗 **LinkedIn:** *(adicione aqui quando quiser)*  
+🔗 **LinkedIn:** *www.linkedin.com/in/everson-borgesdev*  
 
 ---
 
