@@ -43,18 +43,6 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 ---
 
-## 🌐 Contatos
-
-📧 **E-mail:** eversonborges.oficial@gmail.com  
-💼 **GitHub:** https://github.com/eversonmot4  
-🔗 **LinkedIn:** *www.linkedin.com/in/everson-borgesdev*  
-
----
-
 ## 🚀 Objetivo
 
-Continuar evoluindo como desenvolvedor e construir um portfólio sólido com projetos em Java, C e aplicações web, buscando oportunidades futuras para estágio ou iniciação científica.
-
----
-
-⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução.*
+Continuar evoluindo como desenvolvedor e construir um portfólio sólido com projetos em Java, C e aplicações web, buscando oportunidades futuras para estágio.
