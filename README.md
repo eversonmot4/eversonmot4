@@ -31,26 +31,6 @@ Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
 
 ---
 
-## 💼 Experiência Profissional
-
-### **Gráfica Bandeirantes – Estagiário de Design Gráfico**  
-📅 *Outubro de 2023 – Dezembro de 2023 (3 meses)*  
-📍 Presidente Dutra – MA  
-- Estágio de 160 horas, 20h semanais  
-- Produção de banners e cartões de visita  
-- Uso de **CorelDraw** como ferramenta principal  
-
----
-
-### **Gráfica Centro Norte – Estagiário de Design Gráfico**  
-📅 *Julho de 2022 (1 mês)*  
-📍 Presidente Dutra – MA  
-- Estágio de 20 horas  
-- Produção de materiais gráficos utilizando CorelDraw  
-- Projeto promovido pelo IEMA de Presidente Dutra
-
----
-
 ## 🎓 Formação Acadêmica
 
 **🎓 IFMA – Instituto Federal do Maranhão**  
