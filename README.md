@@ -20,6 +20,18 @@ Estou focado em aprimorar minhas habilidades em **Java** e em me tornar um desen
 
 ---
 
+## 🎓 Formação Acadêmica
+
+**🎓 IFMA – Instituto Federal do Maranhão**  
+*Bacharelado em Ciência da Computação*  
+📅 Março de 2024 – Dezembro de 2027  
+
+**🎮 IEMA – Instituto Estadual de Educação, Ciência e Tecnologia do Maranhão**  
+*Ensino Técnico – Programação de Jogos Digitais*  
+📅 Fevereiro de 2021 – Dezembro de 2023  
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -39,23 +51,3 @@ Estou focado em aprimorar minhas habilidades em **Java** e em me tornar um desen
   />
 
 </p>
-
-
-
----
-
-## 🎓 Formação Acadêmica
-
-**🎓 IFMA – Instituto Federal do Maranhão**  
-*Bacharelado em Ciência da Computação*  
-📅 Março de 2024 – Dezembro de 2027  
-
-**🎮 IEMA – Instituto Estadual de Educação, Ciência e Tecnologia do Maranhão**  
-*Ensino Técnico – Programação de Jogos Digitais*  
-📅 Fevereiro de 2021 – Dezembro de 2023  
-
----
-
-## 🚀 Objetivo
-
-Continuar evoluindo como desenvolvedor e construir um portfólio sólido com projetos em Java, C e aplicações web, buscando oportunidades futuras para estágio.
