@@ -7,15 +7,7 @@
 
 ## 📌 Sobre mim
 
-Atualmente curso o **4° período de Ciência da Computação no IFMA – Campus Caxias**, buscando fortalecer minha base em:
-
-- Fundamentos de programação  
-- Análise de requisitos  
-- Estrutura de dados  
-- Desenvolvimento orientado a objetos  
-- Boas práticas de engenharia de software  
-
-Estou focado em aprimorar minhas habilidades em **Java** e em me tornar um desenvolvedor completo através de estudos contínuos e projetos práticos.
+  Sou estudante do 4° período de Ciência da Computação no IFMA, atualmente focado em construir uma base sólida para atuar como Desenvolvedor Fullstack, com ênfase em Java, Spring Boot, JavaScript/TypeScript, Node.js e bancos de dados como PostgreSQL e MySQL. Tenho formação técnica em Programação de Jogos Digitais pelo IEMA, onde tive meu primeiro contato com lógica e desenvolvimento, o que consolidou meu interesse pela área de tecnologia. Já atuei como estagiário em design gráfico, experiência que desenvolveu minha criatividade, atenção aos detalhes e capacidade de resolver problemas sob demanda — habilidades que hoje levo para a programação.
 
 ---
 
