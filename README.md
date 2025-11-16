@@ -40,16 +40,7 @@ Estou focado em aprimorar minhas habilidades em **Java** e em me tornar um desen
 
 </p>
 
----
 
-## 🧠 Tecnologias & Ferramentas
-
-Aqui estão algumas das tecnologias com as quais tenho mais familiaridade:
-
-- **Linguagens:** Java, C, Python  
-- **Ferramentas:** Git & GitHub, VS Code, IntelliJ IDEA  
-- **Design:** CorelDraw (experiência em produção gráfica)  
-- **Outros:** Lógica de programação, Programação orientada a objetos
 
 ---
 
