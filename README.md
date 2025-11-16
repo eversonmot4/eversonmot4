@@ -1,7 +1,6 @@
-# 👋 Olá! Eu sou o Everson Borges
+# Olá! Eu sou o Everson Borges
 
 🎓 **Graduando em Ciência da Computação — IFMA (4º período)**  
-📍 Caxias – Maranhão, Brasil  
 💡 Apaixonado por tecnologia, fundamentos da computação e desenvolvimento de software.
 
 ---
@@ -20,19 +19,7 @@ Estou focado em aprimorar minhas habilidades em **Java** e em me tornar um desen
 
 ---
 
-## 🎓 Formação Acadêmica
-
-**🎓 IFMA – Instituto Federal do Maranhão**  
-*Bacharelado em Ciência da Computação*  
-📅 Março de 2024 – Dezembro de 2027  
-
-**🎮 IEMA – Instituto Estadual de Educação, Ciência e Tecnologia do Maranhão**  
-*Ensino Técnico – Programação de Jogos Digitais*  
-📅 Fevereiro de 2021 – Dezembro de 2023  
-
----
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">📊 Estatísticas</h2>
 <!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
 
 <!-- Begin Stats Cards -->
