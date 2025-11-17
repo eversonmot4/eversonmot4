@@ -13,17 +13,11 @@
 
 ---
 
-<h2 style="color: #44AEFB">📊 Estatísticas</h2>
-<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
+## 📊 Estatísticas
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-
-<p><img align="left" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=eversonmot4&hide=stars&count_private=true&show_icons=true&theme=codeSTACKr&border_radius=20" alt="Guilherme450" /></p>
-<p></p><img align="center" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversonmot4&layout=compact&show_icons=true&theme=codeSTACKr&border_radius=15"/></p>
-<!--<p><img align="center" height="146em" loading="lazy" src="https://streak-stats.demolab.com?user=eversonmot4&count_private=true&theme=codeSTACKr&border_radius=20" alt="eversonmot4" /></p>-->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eversonmot4&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversonmot4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
