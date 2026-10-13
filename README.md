@@ -1,6 +1,6 @@
 # Olá! Eu sou o Everson Borges
 
-🎓 **Graduando em Ciência da Computação — IFMA (5º período)**  
+🎓 **Graduando em Ciência da Computação — IFMA (6º período)**  
 💡 Apaixonado por tecnologia, fundamentos da computação e desenvolvimento de software.
 
 ---
