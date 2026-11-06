@@ -15,10 +15,10 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eversonmot4&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversonmot4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
+![Everson Borges GitHub stats](https://github-readme-stats-pi-nine-49.vercel.app/api?username=eversonmot4&show_icons=true&theme=synthwave&locale=pt-br&cache_seconds=86400&v=1&include_all_commits=true)
+---
+![Top Langs](https://github-readme-stats-pi-nine-49.vercel.app/api/top-langs/?username=eversonmot4&theme=synthwave&locale=pt-br&cache_seconds=86400&hide_forks=true&exclude_repo=github-readme-streak-stats,github-readme-stats,OpenGl&v=2)
+---
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eversonmot4&bg_color=0D1117&color=58A6FF&line=30A3DC&point=58A6FF&hide_border=true)
 
 ---
