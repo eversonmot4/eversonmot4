@@ -17,7 +17,7 @@ Estudante de Ciência da Computação no IFMA e atualmente estagiário de Tecnol
 Atualmente, participo do desenvolvimento de um site institucional para a CDL Caxias, utilizando tecnologias como TypeScript, React, PHP, MySQL, HTML5 e CSS3. Também possuo conhecimentos em Java e Flutter, com interesse em desenvolvimento Backend e Mobile.
 
 - Ensino Médio Técnico em Programação de Jogos Digitais - [IEMA, Presidente Dutra](https://iema.ma.gov.br/)
-- Graduando em Ciência da Computação — [IFMA, Caxias](https://caxias.ifma.edu.br/)
+- Graduando em Ciência da Computação, 6° Período — [IFMA, Caxias](https://caxias.ifma.edu.br/)
 - Apaixonado por tecnologia, fundamentos da computação e desenvolvimento de software
 
 ---
