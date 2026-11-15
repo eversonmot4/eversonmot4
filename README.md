@@ -7,10 +7,9 @@
 
 ## 📌 Sobre mim
 
-  Sou estudante do 6° período de Ciência da Computação no IFMA, atualmente focado em construir uma base sólida para atuar como Desenvolvedor Fullstack, com ênfase em Java, Spring Boot, JavaScript/TypeScript, Node.js e bancos de dados como PostgreSQL e MySQL. 
-  
-  Tenho formação técnica em Programação de Jogos Digitais pelo IEMA, onde tive meu primeiro contato com lógica e desenvolvimento, o que consolidou meu interesse pela área de tecnologia. Já atuei como estagiário em design gráfico, experiência que desenvolveu minha criatividade, atenção aos detalhes e capacidade de resolver problemas sob demanda — habilidades que hoje levo para a programação.
+Estudante de Ciência da Computação no IFMA, com atuação como estagiário na área de Tecnologia da Informação, acompanhando atividades de analistas de sistemas, prestando suporte a usuários e utilizando sistemas corporativos.
 
+Atualmente, atuo no desenvolvimento de sites e no aprimoramento de habilidades em desenvolvimento de software, com interesse em desenvolvimento Backend e Mobile. Possuo conhecimentos em Java, Spring Boot, Flutter e tecnologias Web, com foco na construção de aplicações web e mobile, desenvolvimento de APIs e criação de soluções tecnológicas.
 ---
 
   <picture>
