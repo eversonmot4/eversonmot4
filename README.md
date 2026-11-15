@@ -14,7 +14,7 @@
 
 Estudante de Ciência da Computação no IFMA e atualmente estagiário de Tecnologia da Informação e Desenvolvimento Web na [CDL Caxias](https://www.linkedin.com/company/cdlcaxias/), com experiência em suporte a usuários, acompanhamento de atividades de analistas de sistemas e utilização de sistema interno.
 
-Atualmente, atuo no desenvolvimento de sites e aprimoro meus conhecimentos em desenvolvimento Backend e Mobile. Tenho conhecimentos em Java, Flutter e tecnologias Web, com interesse na construção de aplicações, desenvolvimento de APIs e soluções de software.
+Atualmente, participo do desenvolvimento de um site institucional para a CDL Caxias, utilizando tecnologias como TypeScript, React, PHP, MySQL, HTML5 e CSS3. Também possuo conhecimentos em Java e Flutter, com interesse em desenvolvimento Backend e Mobile.
 
 - Ensino Médio Técnico em Programação de Jogos Digitais - [IEMA, Presidente Dutra](https://iema.ma.gov.br/)
 - Graduando em Ciência da Computação — [IFMA, Caxias](https://caxias.ifma.edu.br/)
