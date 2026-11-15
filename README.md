@@ -1,7 +1,7 @@
 <h1 align="center">Everson Borges Mota</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software</strong> · Backend & Desenvolvimento Mobile<br>
+  <strong>Desenvolvedor de Software</strong> · Backend & Desenvolvimento Mobile e Web<br>
 </p>
 
 <p align="center">
