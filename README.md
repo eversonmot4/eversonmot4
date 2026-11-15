@@ -12,9 +12,9 @@
 
 ## Sobre mim
 
-Estudante de Ciência da Computação no IFMA, com atuação como estagiário na área de Tecnologia da Informação, acompanhando atividades de analistas de sistemas, prestando suporte a usuários e auxiliando na utilização e manutenção de sistemas internos.
+Estudante de Ciência da Computação no IFMA e estagiário na área de Tecnologia da Informação, com experiência em suporte a usuários, acompanhamento de atividades de analistas de sistemas e utilização de sistemas.
 
-Atualmente, atuo no desenvolvimento de sites e no aprimoramento de habilidades em desenvolvimento de software, com interesse em desenvolvimento Backend e Mobile. Possuo conhecimentos em Java, Spring Boot, Flutter e tecnologias Web, com foco na construção de aplicações web e mobile, desenvolvimento de APIs e criação de soluções tecnológicas.
+Atualmente, atuo no desenvolvimento de sites e aprimoro meus conhecimentos em desenvolvimento Backend e Mobile. Tenho conhecimentos em Java, Flutter e tecnologias Web, com interesse na construção de aplicações, desenvolvimento de APIs e soluções de software.
 
 - Ensino Médio Técnico em Programação de Jogos Digitais - [IEMA, Presidente Dutra](https://iema.ma.gov.br/)
 - Graduando em Ciência da Computação — [IFMA, Caxias](https://caxias.ifma.edu.br/)
@@ -24,24 +24,28 @@ Atualmente, atuo no desenvolvimento de sites e no aprimoramento de habilidades e
 
 ## Tecnologias e Ferramentas
 
-**Languages**
+**Linguagens**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
 </p>
 
 
-**Frameworks**
+**Frameworks e Desenvolvimento**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 </p>
 
 
-**Infrastructure**
+**Infraestrutura e Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio">
 </p>
 
 ---
