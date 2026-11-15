@@ -7,9 +7,10 @@
 
 ## 📌 Sobre mim
 
-Estudante de Ciência da Computação no IFMA, com atuação como estagiário na área de Tecnologia da Informação, acompanhando atividades de analistas de sistemas, prestando suporte a usuários e utilizando sistemas corporativos.
+Estudante de Ciência da Computação no IFMA, com atuação como estagiário na área de Tecnologia da Informação, acompanhando atividades de analistas de sistemas, prestando suporte a usuários e utilizando sistemas corporativos. 
 
 Atualmente, atuo no desenvolvimento de sites e no aprimoramento de habilidades em desenvolvimento de software, com interesse em desenvolvimento Backend e Mobile. Possuo conhecimentos em Java, Spring Boot, Flutter e tecnologias Web, com foco na construção de aplicações web e mobile, desenvolvimento de APIs e criação de soluções tecnológicas.
+
 ---
 
   <picture>
@@ -29,5 +30,3 @@ Atualmente, atuo no desenvolvimento de sites e no aprimoramento de habilidades e
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=eversonmot4&langs_count=4&theme=light_github" alt="Linguagens que domino" />
   </picture>
-
-  ---
