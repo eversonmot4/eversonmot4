@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Estudante de Ciência da Computação no IFMA e estagiário na área de Tecnologia da Informação, com experiência em suporte a usuários, acompanhamento de atividades de analistas de sistemas e utilização de sistemas.
+Estudante de Ciência da Computação no IFMA e atualmente estagiário de Tecnologia da Informação e Desenvolvimento Web na [CDL Caxias](https://www.linkedin.com/company/cdlcaxias/), com experiência em suporte a usuários, acompanhamento de atividades de analistas de sistemas e utilização de sistema interno.
 
 Atualmente, atuo no desenvolvimento de sites e aprimoro meus conhecimentos em desenvolvimento Backend e Mobile. Tenho conhecimentos em Java, Flutter e tecnologias Web, com interesse na construção de aplicações, desenvolvimento de APIs e soluções de software.
 
