@@ -12,6 +12,23 @@
   Tenho formação técnica em Programação de Jogos Digitais pelo IEMA, onde tive meu primeiro contato com lógica e desenvolvimento, o que consolidou meu interesse pela área de tecnologia. Já atuei como estagiário em design gráfico, experiência que desenvolveu minha criatividade, atenção aos detalhes e capacidade de resolver problemas sob demanda — habilidades que hoje levo para a programação.
 
 ---
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=eversonmot4)](https://github.com/stats-organization/github-stats-extended)
 
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=eversonmot4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=eversonmot4&theme=light_github" alt="Estatísticas do meu GitHub" />
+  </picture>
+  
 ---
+
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=eversonmot4&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=eversonmot4&langs_count=4&theme=light_github" alt="Linguagens que domino" />
+  </picture>
+
+  ---
